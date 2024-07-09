@@ -38,10 +38,10 @@ La somme des pénalités = 5*2+2*2=14
 Le score final = 141-14=127 ; puisque 127>80 alors le mot de passe est considéré comme ‘Très fort’
 
 #### Travail demandé :
-- [ ] (1) Ecrire une fonction NbCMin(pass) qui retourne le nombre de caractères minuscules.
-- [ ] (2) Ecrire une fonction NbCMaj(pass) qui retourne le nombre de caractères majuscules.
-- [ ] (3) Ecrire une fonction NbCAlphapass) qui retourne le nombre de caractères non alphabétiques.
-- [ ] (4) Ecrire une fonction LongMaj(pass) retourne la longueur de la plus longue séquence de lettres majuscules.
+- [ x ] (1) Ecrire une fonction NbCMin(pass) qui retourne le nombre de caractères minuscules.
+- [ x ] (2) Ecrire une fonction NbCMaj(pass) qui retourne le nombre de caractères majuscules.
+- [ x ] (3) Ecrire une fonction NbCAlphapass) qui retourne le nombre de caractères non alphabétiques.
+- [ x ] (4) Ecrire une fonction LongMaj(pass) retourne la longueur de la plus longue séquence de lettres majuscules.
 - [ ] (5) Ecrire une fonction LongMin(pass) retourne la longueur de la plus longue séquence de lettres minuscules.
 - [ ] (6) Ecrire une fonction Score(pass) qui affiche le score d’un mot de passe
 
